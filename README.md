@@ -12,3 +12,7 @@ Technologies Used
 HTML: Provides the structure and layout of the calculator.
 CSS: Adds styling and ensures responsive design.
 JavaScript: Handles the calculator's functionality and user interactions.
+
+
+https://github.com/user-attachments/assets/27e83506-483e-4ace-a133-dd0bb550b54f
+
